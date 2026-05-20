@@ -18,6 +18,6 @@ An AI-powered radiology triage application designed to optimize clinical workflo
 ## 📂 Project Structure
 
 ```text
-├── app.py                 # Main Streamlit application script
+├── main.py                 # Main Streamlit application script
 ├── requirements.txt       # Python dependencies 
 └── README.md              # Project documentation'''
